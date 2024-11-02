@@ -8,7 +8,7 @@ Definimos aquí la configuración de las máquinas virtuales, incluyendo la red 
 
 #### Cabe recalcar que el nombre de máquina no he podido poner CarlosCastApache, ni CarlosCastMysql debido a que al realizar un vagrant up, se quedaba pillado, así que traté de ponerle Apache y Mysql y sí funcionó. Por lo que el hostname de ambas si es el que se especifica en la práctica (CarlosCastApache y CarlosCastMysql).
 
-## Esta es una imagen del Vagrant file:
+## Vagrant file:
 ![image](https://github.com/user-attachments/assets/e8060532-3960-413d-b06d-3f613c8bdd59)
 
 
@@ -49,7 +49,7 @@ Script de aprovisionamiento para instalar Apache, PHP y el código de la aplicac
 
 ![image](https://github.com/user-attachments/assets/1e9f7bb9-7223-431e-8dd4-0128a7780a32)
 
-## Esta es una imagen del Provision Apache:
+## Provision Apache:
 ![image](https://github.com/user-attachments/assets/aae91646-710c-4096-85d5-c8987f2ab378)
 
 
@@ -91,7 +91,7 @@ Script de aprovisionamiento para instalar MySQL, crear la base de datos y el usu
 ![image](https://github.com/user-attachments/assets/642658f2-3f72-42af-b630-9b54b3227663)
 
 
-## Esta es una imagen del provision Mysql:
+## Provision Mysql:
 ![image](https://github.com/user-attachments/assets/1642b104-e1a5-4928-9c4b-dcf8997af3f8)
 
 ## Aquí podemos observar el estado de los servicios corriendo en las dos máquinas:
